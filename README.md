@@ -1,5 +1,7 @@
 #Star Wars Repo
 
-![./nave.png](Nave do império)
+![Nave do império](nave.png)
 
 Este repositório serve de exemplo para o curso de git.
+
+...
